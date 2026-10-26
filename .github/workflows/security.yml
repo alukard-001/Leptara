@@ -34,7 +34,7 @@ jobs:
         with:
           cache-key: deny
 
-      - uses: taiki-e/install-action@ba47c86ac325773530516bb756137ac718732518 # v2
+      - uses: taiki-e/install-action@1e29709c0ec63babbe8f266397a465f29a825f91 # v2
         with:
           tool: cargo-deny
 
